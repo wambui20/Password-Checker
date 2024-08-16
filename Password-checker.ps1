@@ -1,5 +1,5 @@
 # Define the list of default passwords
-$defaultPasswords = @("password@12345", "Password@12345", "password@23456") 
+$defaultPasswords = @("password",etc) 
 
 # Specify the OU distinguished name (DN) where you want to check users
 $ouDN = "DC=**,DC=**"  # Update with your OU's DN
