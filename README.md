@@ -6,6 +6,7 @@ Password-Checker is a PowerShell script designed to perform security checks on W
 ⚠️ Important Notice:
 
 Authorization: This script should only be run by individuals authorized to perform security checks within the domain. Unauthorized use can lead to unintended consequences, including account lockouts and potential security risks.
+
 Account Lockout: Be aware that executing this script may trigger account lockouts if users have exceeded the permitted number of failed login attempts. Proceed with caution and ensure you have a clear understanding of your organization's password policies.
 
 Features
