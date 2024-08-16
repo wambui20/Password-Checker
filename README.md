@@ -16,19 +16,17 @@ Features
 
 Usage
 
-    Clone the Repository:
+Clone the Repository:
 
     bash
-
-git clone https://github.com/your-repo/password-checker.git
-cd password-checker
+    git clone https://github.com/your-repo/password-checker.git
+    cd password-checker
 
 Run the Script:
 Open a PowerShell window with administrative privileges and execute the script:
 
-powershell
+    .\password-checker.ps1
 
-.\Password-Checker.ps1
-
+    
 Review the Output:
 The script will output a list of user accounts that are using default or weak passwords. Take appropriate action as needed.
