@@ -2,10 +2,10 @@
 $defaultPasswords = @("password@12345", "Password@12345", "password@23456") 
 
 # Specify the OU distinguished name (DN) where you want to check users
-$ouDN = "DC=ELMA,DC=LOCAL"  # Update with your OU's DN
+$ouDN = "DC=**,DC=**"  # Update with your OU's DN
 
 # Specify the output file path
-$outputFilePath = "C:\Users\chelsea.wambui\Documents\default_passwords2.txt"
+$outputFilePath = "***.txt"
 
 try {
     # Get a list of user accounts from the specified OU
